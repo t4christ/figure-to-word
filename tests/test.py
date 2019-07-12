@@ -1,5 +1,5 @@
 import unittest
-from andela import word
+from figure_to_word.figure2word import word
 
 class TestCase(unittest.TestCase):
     def test_word(self):
